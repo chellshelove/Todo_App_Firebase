@@ -1,0 +1,13 @@
+import "./App.css";
+import Title from "./components/Title";
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+
+function App() {
+  return (
+    <div className="app">
+      <Title />
+    </div>
+  );
+}
+
+export default App;
