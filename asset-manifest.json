@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Todo_App_Firebase/static/css/main.18c9107a.css",
+    "main.js": "/Todo_App_Firebase/static/js/main.7ba061cc.js",
+    "static/js/787.2843ca88.chunk.js": "/Todo_App_Firebase/static/js/787.2843ca88.chunk.js",
+    "index.html": "/Todo_App_Firebase/index.html",
+    "main.18c9107a.css.map": "/Todo_App_Firebase/static/css/main.18c9107a.css.map",
+    "main.7ba061cc.js.map": "/Todo_App_Firebase/static/js/main.7ba061cc.js.map",
+    "787.2843ca88.chunk.js.map": "/Todo_App_Firebase/static/js/787.2843ca88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18c9107a.css",
+    "static/js/main.7ba061cc.js"
+  ]
+}
